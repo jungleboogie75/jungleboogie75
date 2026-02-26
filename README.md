@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jungleboogie75
-- 👀 I’m interested in ... Splunk, 
-- 🌱 I’m currently learning ... Python, JS, Splunk Custom App creation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Python, Splunk, and a lot of “let me see what happens if…”
 
-<!---
-jungleboogie75/jungleboogie75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like digging into logs, tracing edge cases, and turning messy systems into something predictable. Most of my projects start as experiments and slowly turn into structured tools once I understand the problem well enough.
+
+Big on practical solutions, clean workflows, and learning by building.
+
+Currently learning full stack web development with Next JS, building custom Splunk apps, Analytics, and more
